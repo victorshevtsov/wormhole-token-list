@@ -274,6 +274,7 @@ TOKENS = {
         "matic": "0x11CD37bb86F65419713f30673A480EA33c826872",
         "avax": "0x8b82A291F83ca07Af22120ABa21632088fC92931",
         "oasis": "0x3223f17957Ba502cbe71401D55A0DB26E5F7c68F",
+        "safe": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
       },
       "sourceAddress": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
       "coingeckoId": "ether",
@@ -923,6 +924,26 @@ TOKENS = {
       "sourceAddress": "0x21C718C22D52d0F3a789b752D4c2fD5908a8A733",
       "coingeckoId": "oasis-network",
       "logo": "https://assets.coingecko.com/coins/images/13162/small/rose.png"
+    }
+  },
+
+  #################
+  # 7. SafeCoin native
+  #################
+  'safe': {
+    "SAFE": {
+      "symbol": "SAFE",
+      "name": "SafeCoin (Wormhole)",
+      "destAddresses": {
+        "sol": "S3SQfD6RheMXQ3EEYn1Z5sJsbtwfXdt7tSAVXPQFtYo",
+        "eth": "0x26B80FBfC01b71495f477d5237071242e0d959d7",
+      },
+      "markets": {
+        "safe": ["safetrade", "safely"]
+      },
+      "sourceAddress": "0x21C718C22D52d0F3a789b752D4c2fD5908a8A733",
+      "coingeckoId": "safecoin",
+      "logo": "https://assets.coingecko.com/coins/images/5011/small/Safecoin_Logo.png"
     }
   },
 }

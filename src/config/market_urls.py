@@ -122,4 +122,16 @@ MARKETS = {
     "name": "Yuzu Swap",
     "link": "https://yuzu-swap.com/"
   },
+
+  #######################
+  # 7. safecoin markets
+  #######################
+  "safetrade": {
+    "name": "SafeTrade",
+    "link": "https://safe.trade/"
+  },
+  "safely": {
+    "name": "Safely",
+    "link": "https://safely.org/"
+  },
 }

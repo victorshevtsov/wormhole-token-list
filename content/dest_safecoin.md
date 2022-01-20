@@ -1,0 +1,7 @@
+
+Known tokens (wormholed to SafeCoin)
+===================================
+  
+| img                                                                                            | symbol   | name                                                    | address                                                                                                                 | origin   | sourceAddress                                                                                                         | symbol   |
+|:-----------------------------------------------------------------------------------------------|:---------|:--------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------|:---------|:----------------------------------------------------------------------------------------------------------------------|:-----------------|
+| ![ETH](https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ETH_wh.png) | ETH      | [Ether (Wormhole)](http://coingecko.com/en/coins/ether) | [7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs](https://safecoin.org/token/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs) | ethereum | [0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2](https://etherscan.io/address/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2) | ETH              |

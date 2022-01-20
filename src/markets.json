@@ -68,6 +68,14 @@
       "link": "https://www.saber.so/",
       "name": "Saber"
     },
+    "safely": {
+      "link": "https://safely.org/",
+      "name": "Safely"
+    },
+    "safetrade": {
+      "link": "https://safe.trade/",
+      "name": "SafeTrade"
+    },
     "solend": {
       "link": "https://solend.fi/dashboard",
       "name": "Solend"
@@ -361,6 +369,14 @@
         "Dn4noZ5jgGfkntzcQSUZ8czkreiZ1ForXYoV2H8Dm7S1": {
           "markets": [
             "yuzu"
+          ]
+        }
+      },
+      "9": {
+        "S3SQfD6RheMXQ3EEYn1Z5sJsbtwfXdt7tSAVXPQFtYo": {
+          "markets": [
+            "safetrade",
+            "safely"
           ]
         }
       }
@@ -776,6 +792,14 @@
             "yuzu"
           ]
         }
+      },
+      "9": {
+        "0x26B80FBfC01b71495f477d5237071242e0d959d7": {
+          "markets": [
+            "safetrade",
+            "safely"
+          ]
+        }
       }
     },
     "3": {
@@ -1111,7 +1135,8 @@
             "yuzu"
           ]
         }
-      }
+      },
+      "9": {}
     },
     "4": {
       "1": {
@@ -1435,7 +1460,8 @@
             "yuzu"
           ]
         }
-      }
+      },
+      "9": {}
     },
     "5": {
       "1": {
@@ -1674,7 +1700,8 @@
             "yuzu"
           ]
         }
-      }
+      },
+      "9": {}
     },
     "6": {
       "1": {
@@ -1934,7 +1961,8 @@
             "yuzu"
           ]
         }
-      }
+      },
+      "9": {}
     },
     "7": {
       "1": {
@@ -2223,7 +2251,56 @@
             "traderjoe"
           ]
         }
-      }
+      },
+      "9": {}
+    },
+    "9": {
+      "1": {
+        "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs": {
+          "markets": [
+            "solend",
+            "orca",
+            "saber",
+            "tulip",
+            "port",
+            "sunny",
+            "francium",
+            "raydium",
+            "atrix",
+            "dexlab"
+          ]
+        }
+      },
+      "2": {
+        "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs": {
+          "markets": [
+            "curve"
+          ]
+        }
+      },
+      "3": {
+        "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs": {
+          "markets": [
+            "loop"
+          ]
+        }
+      },
+      "4": {
+        "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs": {
+          "markets": [
+            "pancakeswap"
+          ]
+        }
+      },
+      "5": {
+        "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs": {
+          "markets": [
+            "quickswap"
+          ]
+        }
+      },
+      "6": {},
+      "7": {}
     }
   },
   "tokens": {
@@ -2637,8 +2714,8 @@
         "symbol": "AVAX"
       },
       "S3SQfD6RheMXQ3EEYn1Z5sJsbtwfXdt7tSAVXPQFtYo": {
-        "logo": "https://assets.coingecko.com/coins/images/13162/small/rose.png",
-        "symbol": "ROSE"
+        "logo": "https://assets.coingecko.com/coins/images/5011/small/Safecoin_Logo.png",
+        "symbol": "SAFE"
       },
       "SRMuApVNdxXokk5GT7XD5cUUgXMBCoAz2LHeuAoKWRt": {
         "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xnorPhAzWXUczCP3KjU5yDxmKKZi5cSbxytQ1LgE3kG/logo.png",
@@ -2747,8 +2824,8 @@
         "symbol": "YGG"
       },
       "0x26B80FBfC01b71495f477d5237071242e0d959d7": {
-        "logo": "https://assets.coingecko.com/coins/images/13162/small/rose.png",
-        "symbol": "ROSE"
+        "logo": "https://assets.coingecko.com/coins/images/5011/small/Safecoin_Logo.png",
+        "symbol": "SAFE"
       },
       "0x27702a26126e0B3702af63Ee09aC4d1A084EF628": {
         "logo": "https://raw.githubusercontent.com/certusone/wormhole-token-list/main/assets/ALEPH_wh.png",
@@ -3567,6 +3644,16 @@
       "0xf6568FD76f9fcD1f60f73b730F142853c5eF627E": {
         "logo": "https://etherscan.io/token/images/binanceusd_32.png",
         "symbol": "BUSDbs"
+      }
+    },
+    "9": {
+      "0x21C718C22D52d0F3a789b752D4c2fD5908a8A733": {
+        "logo": "https://assets.coingecko.com/coins/images/5011/small/Safecoin_Logo.png",
+        "symbol": "SAFE"
+      },
+      "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs": {
+        "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
+        "symbol": "ETH"
       }
     }
   }

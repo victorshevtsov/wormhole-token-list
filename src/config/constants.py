@@ -9,6 +9,7 @@ CHAIN_IDS_TO_NAMES = OrderedDict([
   (5, 'matic'),
   (6, 'avax'),
   (7, 'oasis'),
+  (9, "safe")
 ])
 CHAIN_NAMES_TO_IDS = OrderedDict([(v, k) for (k, v) in CHAIN_IDS_TO_NAMES.items()])
 
@@ -20,6 +21,7 @@ SOURCE_INFO = OrderedDict([
   ('matic', ('Polygon', 'po', "https://polygonscan.com", "https://polygonscan.com/address/0x5a58505a96d1dbf8df91cb21b54419fc36e93fde")),
   ('avax', ('Avalanche', 'av', "https://snowtrace.io", "https://snowtrace.io/address/0x0e082f06ff657d94310cb8ce8b0d9a04541d8052")),
   ('oasis', ('Oasis', 'oa', "https://explorer.oasis.updev.si", "https://explorer.oasis.updev.si/address/0x5848C791e09901b40A9Ef749f2a6735b418d7564")),
+  ('safe', ('SafeCoin', 'sf', "https://safecoin.org", "https://explorer.safecoin.org/account/wormDTUJ6AWPNvk59vGQbDvGJmqbDTdgWgAqcLBCgUb")),
 ])
 
 SUFFIXES = [x[1] for x in SOURCE_INFO.values()]
